@@ -1,2 +1,2 @@
 # python-oop-stuff
-Collection of oop programs and thoughts with python 
+<h2>Collection of oop programs and thoughts with python </h2>
