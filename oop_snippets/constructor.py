@@ -1,4 +1,4 @@
-# OOP SNIPPETS  -- constructors 
+# OOP SNIPPETS  -- constructors and instantiation 
 
 class MyClass:
    '''
@@ -10,7 +10,7 @@ class MyClass:
 
    '''
    # The Sentax of Constructor Declaration 
-   # Default Constructor
+   # Default instantiation
    def __init__(self):
       self.x = 'Hello Python From The Constructor'
    
@@ -22,7 +22,7 @@ obj1= MyClass()
 print(obj1.show())
 
 class MyClass2:
-   # parameterized constructor
+   # parameterized instantiation
    def __init__(self,fname,lname):
       self.firstname = fname
       self.lastname = lname
